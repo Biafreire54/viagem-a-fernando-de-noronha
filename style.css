@@ -6,9 +6,9 @@ h1{
    
 }
 img{
-   border-radius: 10px;
+  border: 5px solid;
     border-style: double;
-     border: 5px solid;
+    border-radius: 20px;
 }
 h2{
   border: solid 5px rgb(151, 85, 4);
@@ -18,5 +18,8 @@ h2{
    border-radius: 10px;
 }
 p{ 
-   font-size: 50px;
+   font-size: 20px;
+}
+a{
+   font-size: 50px; color: blue; 
 }
